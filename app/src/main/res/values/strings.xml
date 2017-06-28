@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoKotlin</string>
+    <string name="menu_item_setting">Setting</string>
+    <string name="menu_item_notification">Notification</string>
+</resources>
